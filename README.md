@@ -10,4 +10,4 @@
 
 - [Merry Christmas&Happy New Year](e-card.md)
 
-- [Duplicate data](duplicate_data.md)
+- [Duplicate data](duplicate-data.md)
