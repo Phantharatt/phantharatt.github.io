@@ -9,3 +9,5 @@
 - [Real user monitoring (RUM)](real-user-monitoring.md)
 
 - [Merry Christmas&Happy New Year](e-card.md)
+
+- [Duplicate data](duplicate_data.md)
