@@ -34,14 +34,14 @@
 
 ---
 
-![](/image/bg1.jpg)
-![](/image/bg2.jpg)
-![](/image/bg3.jpg)
+![](/images/bg1.jpg)
+![](/images/bg2.jpg)
+![](/images/bg3.jpg)
 
 
 ## วิดีโอกิจกรรม
 
-[![Cyber Board Game](/image/bg4.png)](https://youtu.be/H051c8pCy3s?si=BKHIzt8e9zGtXHg2 )
+[![Cyber Board Game](/images/bg4.png)](https://youtu.be/H051c8pCy3s?si=BKHIzt8e9zGtXHg2 )
 ### ปล.
 - ทางกลุ่มผู้จัดทำได้ขออนุญาตเพื่อนๆแล้ว ในการถ่ายรูป ถ่ายวิดีโอและการเผยแพร่ลงสื่อ Social Media
 
