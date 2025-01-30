@@ -1,8 +1,8 @@
-# ▶️ Security Control: Microsoft SQL Sever Login 🌌
- - ### Microsoft SQL Server Login 🔏
+# ▶️ Security Control: Microsoft SQL Sever Login
+ - ### 🔏 Microsoft SQL Server Login
    - คือระบบการยืนยันตัวตนหรือการลงชื่อเข้าใช้งานในฐานข้อมูล Microsoft SQL Server ซึ่งเป็นขั้นตอนสำคัญในการรักษาความปลอดภัยของฐานข้อมูล
 
-### ⛺ สถานที่: 
+## ⛺ สถานที่: 
  - ### My own Notebook :computer:
 
 <img src="/images/sqlseverloginpage.jpg" width="555" />
