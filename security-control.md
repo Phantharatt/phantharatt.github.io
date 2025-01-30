@@ -1,5 +1,6 @@
-# :arrow_forward: Security Control: Microsoft SQL Sever  :shipit:
-
+# :arrow_forward: Security Control: Microsoft SQL Sever Login  :shipit:
+ - ### Microsoft SQL Server Login
+   - คือระบบการยืนยันตัวตนหรือการลงชื่อเข้าใช้งานในฐานข้อมูล Microsoft SQL Server ซึ่งเป็นขั้นตอนสำคัญในการรักษาความปลอดภัยของฐานข้อมูล
 ### :tent: สถานที่: 
  - ### My own Notebook :computer:
 
@@ -21,5 +22,5 @@
    - มีการป้องกันการเข้าถึงโดยไม่ได้รับอนุญาต
 
 ### :bulb: summarize
-&nbsp;  Microsoft SQL Server เป็นการควบคุมแบบ Technical Control ในรูปแบบ Preventive Control ที่ชัดเจน เนื่องจากเป็นระบบการยืนยันตัวตนที่ใช้เทคโนโลยีโดยตรงผ่านกลไก username และ password ซึ่งเป็นส่วนหนึ่งของระบบรักษาความปลอดภัยของ Microsoft SQL Server นอกจากนี้ยังทำหน้าที่เป็นด่านป้องกันแรกในการคัดกรองผู้ใช้งาน โดยจะอนุญาตให้เฉพาะผู้ที่มีสิทธิ์เท่านั้นที่สามารถเข้าถึงระบบฐานข้อมูลได้
+&nbsp;  Microsoft SQL Server Login เป็นการควบคุมแบบ Technical Control ในรูปแบบ Preventive Control ที่ชัดเจน เนื่องจากเป็นระบบการยืนยันตัวตนที่ใช้เทคโนโลยีโดยตรงผ่านกลไก username และ password ซึ่งเป็นส่วนหนึ่งของระบบรักษาความปลอดภัยของ Microsoft SQL Server นอกจากนี้ยังทำหน้าที่เป็นด่านป้องกันแรกในการคัดกรองผู้ใช้งาน โดยจะอนุญาตให้เฉพาะผู้ที่มีสิทธิ์เท่านั้นที่สามารถเข้าถึงระบบฐานข้อมูลได้
   
