@@ -11,5 +11,7 @@
 - [Merry Christmas&Happy New Year](e-card.md)
 
 - [Duplicate data](duplicate-data.md)
-  
+
+- [Security Control](security-control.md)
+
 - [Cyber Board Game](cyber-board-game.md)
